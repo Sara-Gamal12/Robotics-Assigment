@@ -24,7 +24,7 @@
 ### Results:
 
 
-<div align='center'><img src="./results/req1_1.png" alt="img1" width="500"/>  <img src="./results/req1_2.png" alt="img2" width="500"/></div>
+<div align='center'><img src="./results/req1_1.png" alt="img1" width="400"/>  <img src="./results/req1_2.png" alt="img2" width="400"/></div>
 
 
 ##  Requirment 2 <a name = "Requirment2"></a>
@@ -40,5 +40,5 @@ The likelihood map showing the probability distribution.
 
 ### Results Given measurments from requirment 1:
 <div align='center'><img src="./results/req2_1.png" alt="img1" width="1000"/></div>
-<div align='center'><img src="./results/req2_2.png" alt="img1" width="500"/><img src="./results/req2_3.png" alt="img1" width="500"/></div>
+<div align='center'><img src="./results/req2_2.png" alt="img1" width="400"/><img src="./results/req2_3.png" alt="img1" width="400"/></div>
 
