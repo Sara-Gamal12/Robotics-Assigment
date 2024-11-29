@@ -1,14 +1,9 @@
 <h1 align="center">Robotics-Assignment</h1>
-
 <div align='center'><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmh3NHd3Z2J5dG04NmZ0azVzYXFmODVtNmdtb3dwcnEwdTBxZHA0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/58OujxlE7e19Mjv0gj/giphy.webp" alt="Logo" width="300"/></div>
 
 ## 📝 Table of Contents
-
 - [ Requirment 1](#Requirment1)
 - [ Requirment 2](#Requirment2)
-  
-
-
 ##  Requirment 1 <a name = "Requirment1"></a>
 
 ### How It Works
